@@ -40,6 +40,5 @@
 - [ ] Live 2d 开发  
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact" align="right"/>
-
-![](https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio)
+<img  src="https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio" width="500"/>
 ![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio)
