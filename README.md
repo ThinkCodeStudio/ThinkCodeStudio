@@ -41,6 +41,7 @@
 
 <p>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact" align="right"/>
- <img  src="https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio" width="410"/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio" width="415"/>
 </p>
+
 ![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio)
