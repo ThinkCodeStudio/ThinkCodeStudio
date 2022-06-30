@@ -1,3 +1,11 @@
+
+# 让我们变得更强💪  
+ 
+<img  src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
+
+ 
+**Futrue&Plan**
+ 
 - [ ] OpenHarmony手机 全志芯片  
 - [ ] 电磁轨道枪的理论研究  
 - [ ] klipper USB直连计算模块 全志H5  
@@ -31,9 +39,7 @@
 - [ ] 个人网站  
 - [ ] Live 2d 开发  
 
-让我们变得更强💪  
-<img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact" align="right"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio) -->
+![](https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio)
 ![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio)
