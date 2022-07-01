@@ -6,6 +6,7 @@
  
 **Futrue&Plan**
  
+- [ ] 战地1视频剪辑
 - [ ] OpenHarmony手机 全志芯片  
 - [ ] 电磁轨道枪的理论研究  
 - [ ] klipper USB直连计算模块 全志H5  
