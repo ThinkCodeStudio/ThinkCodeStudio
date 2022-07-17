@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/logo_1.png" width="500"/><br/>
+  <img src="./logo_1.png" width="200"/><br/>
   THINK CODE STUDIO
 </h3>
 
@@ -54,6 +54,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio&theme=react-dark)
 
-<img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/logo_2.png" align="left" width="50" high="50"/>
-<img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/logo_3.png" align="left" width="50" high="50"/>
-<img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/logo_4.png" align="left" width="50" high="50"/>
+<img src="./logo_2.png" align="left" width="50" high="50"/>
+<img src="./logo_3.png" align="left" width="50" high="50"/>
+<img src="./logo_4.png" align="left" width="50" high="50"/>
