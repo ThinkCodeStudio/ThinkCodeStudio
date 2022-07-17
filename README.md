@@ -1,4 +1,9 @@
-<img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/logo_1.png"/>
+<h3 align="center">
+  <img src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/logo_1.png" width="500"/><br/>
+  THINK CODE STUDIO
+</h3>
+
+
 
 # 让我们变得更强💪  
  
