@@ -23,7 +23,7 @@
 |开关控制 鸿蒙生态                 |              | 
 |纸模 皇家国教骑士团 阿卡多双枪     |   🎉完成 视频ing    |  
 |舟味穿搭                          |              |  
-|带屏幕的编码器 smartknob          |              |
+|[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob)          |              |
 |3D打印 莫辛纳甘obrez              |              |
 |3D打印 AT筒子                     |              |
 |3D打印 绝区零 比利·奇德的左轮手枪  |              |
