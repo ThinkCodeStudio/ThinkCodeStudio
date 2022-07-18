@@ -54,7 +54,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio&theme=react-dark)
 
-<img src="./LOGO.png" align="left" width="50" high="50"/>
 <img src="./logo_0.png" align="left" width="50" high="50"/>
 <img src="./logo_2.png" align="left" width="50" high="50"/>
 <img src="./logo_3.png" align="left" width="50" high="50"/>
