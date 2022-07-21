@@ -45,7 +45,7 @@
 |CG 泥岩VS爱国者                   |               |
 |远程电子鞭炮点燃装置              |               |
 |树莓派W适配俄罗斯方块             |               |
-|[个人网站](https://github.com/ThinkCodeStudio/blog/blob)    |  📐设计中   |
+|[个人网站](https://github.com/ThinkCodeStudio/blog)    |  📐设计中   |
 |Live 2d 开发                      |               |
 
 <p>
