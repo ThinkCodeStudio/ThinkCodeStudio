@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./logo_1.png" width="200"/><br/>
+  <img alt="head logo" src="./logo_1.png" width="200"/><br/>
   THINK CODE STUDIO
 </h3>
 
@@ -7,7 +7,7 @@
 
 # 让我们变得更强💪  
  
-<img  src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
+<img alt="power cat" src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
 
 **Futrue&Plan**
 
@@ -55,9 +55,9 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio&theme=react-dark)
 
-<img src="./logo_0.png" align="left" width="50" high="50"/>
-<img src="./logo_6.png" align="left" width="50" high="50"/>
-<img src="./logo_2.png" align="left" width="50" high="50"/>
-<img src="./logo_3.png" align="left" width="50" high="50"/>
-<img src="./logo_4.png" align="left" width="50" high="50"/>
-<img src="./logo_5.png" align="left" width="50" high="50"/>
+<img alt="一代" src="./logo_0.png" align="left" width="50" high="50"/>
+<img alt="二代" src="./logo_6.png" align="left" width="50" high="50"/>
+<img alt="音乐" src="./logo_2.png" align="left" width="50" high="50"/>
+<img alt="制造" src="./logo_3.png" align="left" width="50" high="50"/>
+<img alt="媒体" src="./logo_4.png" align="left" width="50" high="50"/>
+<img alt="战车" src="./logo_5.png" align="left" width="50" high="50"/>
