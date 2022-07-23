@@ -9,6 +9,10 @@
  
 <img alt="power cat" src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
 
+**Now**
+
+* Voron2.4 3D打印机
+
 **Futrue&Plan**
 
 | 计划                            |     状态     | 
@@ -18,7 +22,7 @@
 |OpenHarmony手机 全志芯片          |              |  
 |电磁轨道枪的理论研究              |              |  
 |klipper USB直连计算模块 全志H5    |              |  
-|[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)                 | 🛠开发中 60% |  
+|[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)                 | 🛠开发中 70% |  
 |[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                 | 🛠开发中 50% |  
 |typore自制主题                    |              |  
 |开关控制 鸿蒙生态                 |              | 
