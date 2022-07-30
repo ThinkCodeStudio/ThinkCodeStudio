@@ -23,7 +23,7 @@
 |战地1视频剪辑                     |🎞素材收集中  |
 |OpenHarmony手机 全志芯片          |              |  
 |电磁轨道枪的理论研究              |              |  
-|klipper USB直连计算模块 全志H5    |              |  
+|klipper USB直连计算模块 全志H5    |放弃？🤩[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
 |[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)             | 🛠开发中 80% |  
 |[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 🛠开发中 50% |  
 |typore自制主题                    |              |  
@@ -42,7 +42,7 @@
 |airhaed 手书                      |               |
 |三体web运动结构                   |               |
 |数独开发                          |               |
-|[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn?spm_id_from=333.999.0.0&vd_source=2c5839a01c12f5ad2a1af86f5fcbaf20)|     🎉完成    |
+|[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn)|     🎉完成    |
 |设计华为表盘                      |               |
 |3D建模 时间枪                     |               |
 |pad数学软件                       |               |
@@ -51,7 +51,7 @@
 |CG 泥岩VS爱国者                   |               |
 |远程电子鞭炮点燃装置              |               |
 |树莓派W适配俄罗斯方块             |               |
-|[个人网站](https://github.com/ThinkCodeStudio/blog)                                        |  📐设计中   |
+|[个人网站](https://github.com/ThinkCodeStudio/blog) |  📐设计中   |
 |Live 2d 开发                      |               |
 
 <p>
