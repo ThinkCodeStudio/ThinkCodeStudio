@@ -11,32 +11,35 @@
 
 **Now**
 
-* [计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource) 
+* 原神乐器弹奏器
+* 个人网站
+* [带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob)
 
 **Futrue&Plan**
 
 | 计划                            |     状态     | 
 | :------------------------------ | :---------:  |
+|原神乐器弹奏器                    |   🛠开发中 0%  |
 |通用快接计算模块                 |              |
 |鱼叉潜艇                         |              |
 |圆形表盘，原神钟表                |              |
 |明日方舟x皇家国教骑士团           |              |
 |枪焰壁纸渲染                      |              |
-|3D打印 克莱伯狙击枪               |              |
+|3D打印 克莱伯狙击枪               |      1%      |
 |战地1视频剪辑                     |🎞素材收集中  |
 |OpenHarmony手机 全志芯片          |              |  
 |电磁轨道枪的理论研究              |              |  
-|klipper USB直连计算模块 全志H5    |放弃？🤩[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
+|klipper USB直连计算模块 全志H5    |放弃🤩[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
 |[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)             | 🎉完成 |  
-|[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 🛠开发中 50% |  
+|[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 50% |  
 |typore自制主题                    |              |  
-|开关控制 鸿蒙生态                 |              | 
+|开关控制 鸿蒙生态                 |       40%     | 
 |纸模 皇家国教骑士团 阿卡多双枪     |   🎉完成   |  
 |舟味穿搭                          |              |  
-|[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob)                  |        ⚙准备中      |
+|[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |        ⚙准备中      |
 |3D打印 莫辛纳甘obrez              |              |
 |3D打印 AT筒子                     |              |
-|3D打印 绝区零 比利·奇德的左轮手枪  |              |
+|3D打印 绝区零 比利·奇德的左轮手枪  |       30%    |
 |漂流 卫星定位相机                  |              |
 |[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   📐设计中   |
 |霜星干员演示视频                  |               |
@@ -49,7 +52,6 @@
 |设计华为表盘                      |               |
 |3D建模 时间枪                     |               |
 |pad数学软件                       |               |
-|电子八音盒                        |               |
 |CG 太空特别行动                   |               |
 |CG 泥岩VS爱国者                   |               |
 |远程电子鞭炮点燃装置              |               |
