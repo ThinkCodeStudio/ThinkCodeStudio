@@ -11,15 +11,15 @@
 
 **Now**
 
-* 原神乐器弹奏器
-* 个人网站
+* [原神乐器弹奏器](https://github.com/ThinkCodeStudio/GenshinPlayer)
+* [个人网站](https://github.com/ThinkCodeStudio/blog)
 * [带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob)
 
 **Futrue&Plan**
 
 | 计划                            |     状态     | 
 | :------------------------------ | :---------:  |
-|原神乐器弹奏器                    |   🛠开发中 0%  |
+|[原神乐器弹奏器](https://github.com/ThinkCodeStudio/GenshinPlayer)|   🛠开发中 0%  |
 |通用快接计算模块                 |              |
 |鱼叉潜艇                         |              |
 |圆形表盘，原神钟表                |              |
