@@ -31,15 +31,13 @@
 |电磁轨道枪的理论研究              |              |  
 |klipper USB直连计算模块 全志H5    |放弃🤩[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
 |[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)             | 🎉完成 |  
-|[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 50% |  
-|typore自制主题                    |              |  
+|[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 50% |   
 |开关控制 鸿蒙生态                 |       40%     | 
 |纸模 皇家国教骑士团 阿卡多双枪     |   🎉完成   |  
 |舟味穿搭                          |              |  
 |[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |        ⚙准备中      |
 |3D打印 莫辛纳甘obrez              |              |
 |3D打印 AT筒子                     |              |
-|3D打印 绝区零 比利·奇德的左轮手枪  |       30%    |
 |漂流 卫星定位相机                  |              |
 |[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   📐设计中   |
 |霜星干员演示视频                  |               |
@@ -50,7 +48,6 @@
 |数独开发                          |               |
 |[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn)|     🎉完成    |
 |设计华为表盘                      |               |
-|3D建模 时间枪                     |               |
 |pad数学软件                       |               |
 |CG 太空特别行动                   |               |
 |CG 泥岩VS爱国者                   |               |
