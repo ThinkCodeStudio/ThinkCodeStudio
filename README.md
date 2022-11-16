@@ -11,9 +11,8 @@
 
 **Now**
 
-* 学习中。。。
-* [个人网站](https://github.com/ThinkCodeStudio/blog)
-* [带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob)
+* 学习中...
+* 工作中...
 
 **Futrue&Plan**
 
