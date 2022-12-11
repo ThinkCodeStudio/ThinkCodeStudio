@@ -30,8 +30,8 @@
 |电磁轨道枪的理论研究              |              |  
 |klipper USB直连计算模块 全志H5    |放弃🤩[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
 |[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)             | 🎉完成 |  
-|[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 50% |   
-|开关控制 鸿蒙生态                 |       40%     | 
+|[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)                        | 放弃 |   
+|开关控制 鸿蒙生态                 |       60%     | 
 |纸模 皇家国教骑士团 阿卡多双枪     |   🎉完成   |  
 |舟味穿搭                          |              |  
 |[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |        ⚙准备中      |
