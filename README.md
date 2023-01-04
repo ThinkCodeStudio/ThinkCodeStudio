@@ -9,7 +9,7 @@
  
 <img alt="power cat" src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
 
-**Now**
+**ing...**
 
 * [可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)
 * ESP32图传
