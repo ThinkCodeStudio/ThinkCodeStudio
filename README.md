@@ -11,15 +11,16 @@
 
 **Now**
 
-* 学习中...
-* 工作中...
+* [可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)
+* ESP32图传
+
 
 **Futrue&Plan**
 
 | 计划                            |     状态     | 
 | :------------------------------ | :---------:  |
-|esp2866开机模块                   |              |
-|ESP32图传                        |               |
+|esp2866开机模块                   |   📐设计中  |
+|ESP32图传                        |       20%      |
 |[原神乐器弹奏器](https://github.com/ThinkCodeStudio/GenshinPlayer)|   🛠开发中 60%  |
 |通用快接计算模块                 |       使用rk3588       |
 |鱼叉潜艇                         |             |
@@ -33,7 +34,7 @@
 |klipper USB直连计算模块 全志H5    |放弃🤩[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
 |[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)| 🎉完成 |  
 |[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)| 考虑使用USB |   
-|[开关控制](https://github.com/ThinkCodeStudio/esp-01s_control_servo)|       90%     | 
+|[开关控制](https://github.com/ThinkCodeStudio/esp-01s_control_servo)|       🎉完成     | 
 |纸模 皇家国教骑士团 阿卡多双枪     |   🎉完成   |  
 |舟味穿搭                          |              |  
 |[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |        ⚙准备中      |
