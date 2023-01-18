@@ -43,7 +43,7 @@
 |[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   📐设计中   |
 |霜星干员演示视频                  |               |
 |动作同步机器人                    |               |
-|[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)| 启动 |
+|[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)|  🛠开发中 10% |
 |airhaed 手书                      |               |
 |数独开发                          |               |
 |[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn)|     🎉完成    |
