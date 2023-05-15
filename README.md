@@ -39,7 +39,7 @@
 |舟味穿搭                          |              |  
 |[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |   暂时放弃  |
 |3D打印 莫辛纳甘obrez              |              |
-|[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   📐设计中   |
+|[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   🛠开发中 50%   |
 |霜星干员演示视频                  |               |
 |动作同步机器人                    |               |
 |[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)|  🛠开发中 50% |
