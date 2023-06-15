@@ -9,50 +9,51 @@
  
 <img alt="power cat" src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
 
-**ing...**
+## 进行中
 
 * [可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)
 * [世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)
 
 
-**Futrue&Plan**
+## 计划清单
 
 | 计划                            |     状态     | 
 | :------------------------------ | :---------:  |
-|         数据手套研究              |              |
-|             战术VR                |              |
-|~~esp2866开机模块~~               |   主板上没有找到合适的供电方案  |
-|STM32_NES游戏机                   |              |
-|ESP32图传                        |       20%      |
-|[原神乐器弹奏器](https://github.com/ThinkCodeStudio/GenshinPlayer)|   🛠开发中 60%, 并入键盘项目  |
-|通用快接计算模块                 |       使用rk3588 使用DDR3内存连接器      |
-|鱼叉潜艇                         |             |
-|圆形表盘，原神钟表                |              |
+|[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   🛠开发中 70%   |
+|[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)|  🛠开发中 80% |
+|人工智能无人机协同集群            |              |
+|人工智能电路焊接机器人            |              |
+|人体骨骼识别                      |              |
+| 动作同步机器人                   |              |
+| 数据手套动捕研究                 |              |
+|NES模拟器                         |              |
+|ESP32图传                        |       20%     |
+|通用快接计算模块                 |       使用rk3568 使用DDR4内存连接器      |
+|鱼叉潜艇                         |               |
 |明日方舟x皇家国教骑士团           |              |
+|霜星干员演示视频                  |              |
 |枪焰壁纸渲染                      |              |
 |3D打印 克莱伯狙击枪               |      1%      |
-|电磁轨道枪的理论研究              |              |  
-|klipper USB直连计算模块 全志H5    |放弃[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
+|3D打印 莫辛纳甘obrez              |              |
+|电磁轨道枪的理论研究              |              |
+|CG 太空特别行动                   |              |
+|CG 泥岩VS爱国者                   |              |
+|CG 消防机器人概念                 |              | 
+|Live 2d 开发                      |              |
+|远程电子鞭炮点燃装置              |                |
+|[复刻带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |   暂时放弃  |
+|[个人网站](https://github.com/ThinkCodeStudio/blog) |  暂时放弃   |V
+| ~~战术VR~~                      |苹果 Vision Pro |
+|~~esp2866开机模块~~               |   主板上没有找到合适的供电方案  |
+|[原神乐器弹奏器](https://github.com/ThinkCodeStudio/GenshinPlayer)|   60%, 放弃并入键盘项目  |
+|~~klipper USB直连计算模块 全志H5~~    |放弃[较满意产品](https://www.bilibili.com/video/BV1D94y1D7Es)|  
 |[Voron2.4 3D打印机](https://github.com/ThinkCodeStudio/my_voron2.4_3dPrinter)| 🎉完成 |  
 |~~[计算机性能监视器](https://github.com/ThinkCodeStudio/PCresource)~~| 放弃 |   
 |[开关控制](https://github.com/ThinkCodeStudio/esp-01s_control_servo)|       🎉完成     | 
 |纸模 皇家国教骑士团 阿卡多双枪     |   🎉完成   |  
-|[带屏幕的编码器 smartknob](https://github.com/ThinkCodeStudio/smartknob) |   暂时放弃  |
-|3D打印 莫辛纳甘obrez              |              |
-|[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)        |   🛠开发中 50%   |
-|霜星干员演示视频                  |               |
-|动作同步机器人                    |               |
-|[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)|  🛠开发中 70% |
-|airhaed 手书                      |      放弃         |
-|数独开发                          |       放弃        |
+|airhaed 手书                      |      放弃   |
+|数独开发                          |       放弃   |
 |[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn)|     🎉完成    |
-|设计华为表盘                      |               |
-|pad数学软件                       |               |
-|CG 太空特别行动                   |               |
-|CG 泥岩VS爱国者                   |               |
-|远程电子鞭炮点燃装置              |                |
-|[个人网站](https://github.com/ThinkCodeStudio/blog) |  📐设计中   |
-|Live 2d 开发                      |               |
 
 <p>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact&theme=midnight-purple" align="right"/>
