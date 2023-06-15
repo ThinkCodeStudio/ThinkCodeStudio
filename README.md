@@ -7,7 +7,7 @@
 
 # 让我们变得更强💪  
  
-<img alt="power cat" src="https://github.com/ThinkCodeStudio/Markdown-Image/blob/master/power.jpg" align="right"/>
+<img alt="power cat" src="./power.jpg" align="right"/>
 
 ## 进行中
 
