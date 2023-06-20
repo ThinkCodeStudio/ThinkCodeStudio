@@ -21,6 +21,7 @@
 | :------------------------------ | :---------:  |
 |[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)|🛠开发中 70%|
 |[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)|🛠开发中 80%|
+|Linux掌机底板                     |              |
 |人工智能无人机协同集群            |              |
 |人工智能电路焊接机器人            |              |
 |人体骨骼识别                      |              |
