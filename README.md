@@ -15,8 +15,8 @@
 * [可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)
 * [世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)
 
-没更新? 要不就是在搞硬件, 要不就是在打游戏
-硬件真难搞!
+没更新? 要不就是在搞硬件, 要不就是在打游戏  
+硬件真难搞! 周期长, 费用高, 难调试.
 
 ## 计划清单
 
