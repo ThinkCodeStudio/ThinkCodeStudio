@@ -33,8 +33,6 @@
 |NES模拟器                         |              |
 |ESP32图传                         |       20%    |
 |通用快接计算模块                  |使用rk3568 使用DDR4内存连接器|
-|小尺寸LinuxPC                     |               |
-|鱼叉潜艇                          |              |
 |数独开发                          | OH应用练习   |
 |明日方舟x皇家国教骑士团           |              |
 |霜星干员演示视频                  |              |
@@ -59,6 +57,8 @@
 |[开关控制](https://github.com/ThinkCodeStudio/esp-01s_control_servo)|🎉完成| 
 |纸模 皇家国教骑士团 阿卡多双枪|🎉完成|
 |[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn)|🎉完成|
+|小尺寸LinuxPC                     |    nanoPC T6  |
+|鱼叉潜艇                          |   放弃（无聊）|
 
 <p>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact&theme=midnight-purple" align="right"/>
