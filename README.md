@@ -24,16 +24,14 @@
 | :------------------------------ | :---------:  |
 |[世界线变动率探测仪 辉光管时钟](https://github.com/ThinkCodeStudio/DivergenceMeter)|🛠开发中 70%|
 |[可编程客制机械键盘](https://github.com/ThinkCodeStudio/DIYkeyboard)|🛠开发中 80%|
-|Linux掌机                         |     50%      |
+|Linux掌机                         |     70%      |
 |人工智能无人机协同集群            |              |
 |人工智能电路焊接机器人            |              |
 |人体骨骼识别                      |              |
 | 动作同步机器人                   |              |
 | 数据手套动捕研究                 |              |
-|NES模拟器                         |              |
+|NES模拟器                         |     FPGA     |
 |ESP32图传                         |       20%    |
-|通用快接计算模块                  |使用rk3568 使用DDR4内存连接器|
-|数独开发                          | OH应用练习   |
 |明日方舟x皇家国教骑士团           |              |
 |霜星干员演示视频                  |              |
 |枪焰壁纸渲染                      |              |
@@ -59,6 +57,8 @@
 |[方舟华为主题](https://www.bilibili.com/video/BV1hP4y1t7Sn)|🎉完成|
 |小尺寸LinuxPC                     |    nanoPC T6  |
 |鱼叉潜艇                          |   放弃（无聊）|
+|数独开发                          | 放弃       |
+|通用快接计算模块                  |放弃(就是核心板)|
 
 <p>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact&theme=midnight-purple" align="right"/>
